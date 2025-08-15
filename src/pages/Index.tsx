@@ -309,7 +309,7 @@ const Index = () => {
               Data sourced from World Bank, UNESCO, Government of India, and Wikidata.
             </p>
             <p className="text-xs text-muted-foreground">
-              Built with ❤️ for Independence Day 2026 • #IndiaAt79 #DataInMotion
+              Independence Day 2025 • #IndiaAt79 #DataInMotion
             </p>
           </div>
         </div>

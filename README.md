@@ -19,10 +19,6 @@ It brings together **live public data** on GDP, literacy, life expectancy, popul
 
 ## 🖼 Preview
 
-![Screenshot Placeholder](docs/screenshot.png)  
-*(Replace with your actual screenshot)*
-
----
 
 ## 🏗 System Architecture
 

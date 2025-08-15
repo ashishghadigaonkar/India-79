@@ -1,7 +1,7 @@
 
-# 🇮🇳 India@77 – Data in Motion
+# 🇮🇳 India@79 – Data in Motion
 
-An **interactive data visualization web app** celebrating **India’s 77 years of progress** since Independence.  
+An **interactive data visualization web app** celebrating **India’s 79 years of progress** since Independence.  
 It brings together **live public data** on GDP, literacy, life expectancy, population, and major milestones, all wrapped in a **tricolor-themed storytelling experience**.
 
 ---

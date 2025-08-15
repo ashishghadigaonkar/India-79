@@ -36,7 +36,7 @@ export function Header() {
               Share India's Story
             </Button>
             <p className="text-sm text-muted-foreground">
-              #IndiaAt79 • Independence Day 2026
+              #IndiaAt79 • Independence Day 2025
             </p>
           </div>
         </div>
